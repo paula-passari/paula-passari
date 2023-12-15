@@ -9,12 +9,12 @@
 
 </div>
 
-<!-- Stats
+<!-- Stats -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paula-passari&show_icons=true&langs_count=10&layout=compact&theme=gotham&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
 </div>
 
-<br><br> -->
+<br><br> 
 
 <!-- Skills
 ## Skills
